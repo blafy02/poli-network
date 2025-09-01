@@ -1,0 +1,5 @@
+requests
+sqlalchemy
+pg8000
+cloud-sql-python-connector
+google-cloud-secret-manager
